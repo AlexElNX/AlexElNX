@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="assets/profile-banner.png" width="100%" alt="Pixel art sunset landscape with pine trees, mountains, a lake and a stag"/>
 
@@ -69,9 +69,11 @@ and maintainable application design.
 
 </div>
 
-### 🛍️ NewBalanceStore
+### 🛍️ NewBalanceStore · 🎓 Educational Project
 
-A full-stack e-commerce application inspired by the official New Balance online store.
+A personal educational project recreating the shopping experience of the official New Balance online store for learning and portfolio purposes.
+
+> **Disclaimer:** This is an independent, non-commercial educational project. It is not affiliated with, endorsed by, or associated with New Balance.
 
 - Product catalog with advanced filtering and sorting.
 - Interactive product preview, shopping cart, and checkout.
@@ -103,7 +105,7 @@ A desktop application built with C++ and Qt/QML.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlexElNX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs" alt="GitHub stats and rank"/>
 
-<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexElNX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexElNX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 
 <br/><br/>
 
