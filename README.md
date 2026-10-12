@@ -103,7 +103,7 @@ A desktop application built with C++ and Qt/QML.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlexElNX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs" alt="GitHub stats and rank"/>
 
-<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexElNX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexElNX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 
 <br/><br/>
 
