@@ -107,8 +107,6 @@ A desktop application built with C++ and Qt/QML.
 
 <img width="28%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexElNX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=AlexElNX&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak"/>
 
 </div>
