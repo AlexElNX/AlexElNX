@@ -91,7 +91,7 @@ A desktop application built with C++ and Qt/QML.
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=AlexElNX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs" alt="GitHub stats and rank"/>
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexElNX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexElNX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexElNX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
@@ -104,7 +104,7 @@ A desktop application built with C++ and Qt/QML.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AlexElNX/AlexElNX/output/github-snake.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/AlexElNX/AlexElNX/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
